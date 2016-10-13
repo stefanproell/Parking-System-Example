@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "properties": {
+        "popupContent": "Parkzone G",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B8DE5C",
+            "fillOpacity": 0.8
+        }
+    },
+    "geometry":{
+        "type":"Polygon",
+        "coordinates":[
+            [
+                
+
+            ]
+        ]
+    }
+}
